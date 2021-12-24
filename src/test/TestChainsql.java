@@ -81,6 +81,8 @@ public class TestChainsql {
 
 		sTableName = "peer_2";
 		sNewAccountId = "zwxWcoM8P8iTAm61tnpMzuDa8Tro67wztg";  //"zzzzzzzzzzzzzzzzzzzzBZbvji";
+     
+		System.out.println("hhh");
 
 //		for (int i =0; i<500;i++){
 //			sTableName = "peersaef_"+i;
